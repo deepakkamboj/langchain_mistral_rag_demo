@@ -1,7 +1,7 @@
 # RAG (Retrieval-Augmented Generation) System Tutorial
 
 <div align="center">
-  <img src="./assets/logo.svg" alt="Logo" width="200">
+  <img src="./assets/rag.png" alt="Logo" width="200">
   <h1 align="center">RAG System with LangChain & Mistral<br/>Complete Implementation Guide</h1>
 </div>
 
